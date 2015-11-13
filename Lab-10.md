@@ -6,8 +6,8 @@ Parteners: Ian Gross, Barry Hu, Kevin Zhang
 2) Printed Hello World. Tried turning off backlight
 
 3) Used "File/LiquidCrystal/SerialDisplay".
-![hello printed](https://scontent.xx.fbcdn.net/hphotos-xap1/v/t34.0-12/12233434_1037378216282450_799164861_n.jpg?oh=44e1c0e7d3bccb4de97c7a9016172007&oe=5648FD2A)
-code used:
+
+![File](https://scontent.xx.fbcdn.net/hphotos-xap1/v/t34.0-12/12233434_1037378216282450_799164861_n.jpg?oh=44e1c0e7d3bccb4de97c7a9016172007&oe=5648FD2A)
 
 4) Part 4 code:
 
