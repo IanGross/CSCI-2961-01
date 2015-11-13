@@ -1,4 +1,4 @@
-Parteners: Ian Gross, Barry Hu, Kevin Zhang
+Partners: Ian Gross, Barry Hu, Kevin Zhang
 
 
 1) LED blinks. Modified the delay to make it blink faster
@@ -11,6 +11,7 @@ Parteners: Ian Gross, Barry Hu, Kevin Zhang
 
 4) Part 4 code:
 
+```
 unsigned long time;
 void setup() { 
   // initialize the serial communications:
@@ -58,7 +59,7 @@ void loop() {
     
     
   }
-  
+```
   
   
   
