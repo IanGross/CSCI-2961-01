@@ -1,6 +1,16 @@
 1) I read the book and the slides
 
+Here are the various tables my RStudio Produced
 
+![File](http://i.xomf.com/wkvgn.png)
+
+![File](http://i.xomf.com/mjjhka.png)
+
+![File](http://i.xomf.com/qdxlqa.png)
+
+![File](http://i.xomf.com/kwnxna.png)
+
+![File](http://i.xomf.com/cvcbka.png)
 
 Here's the code, in case you need to look at it
 ```
