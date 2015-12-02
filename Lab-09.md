@@ -17,7 +17,7 @@ Update on our project:
 
 Was not able to accomplish much over the past week. We will continue work by getting RocketFish to work on our machines and start to fix easy issues.
 
-Here's the code, in case you need to look at it
+Here's the code that I used to make rules and produce the graphs shown above, in case you need to look at it
 ```
 > str(Titanic)
  table [1:4, 1:2, 1:2, 1:2] 0 0 35 0 0 0 17 0 118 154 ...
