@@ -16,3 +16,11 @@ Completed the Learn Git Branching website, first four levels
 ![File](http://i.xomf.com/gnwzpa.png)
 
 -------------
+
+Part 3
+
+I made a merge request: https://github.com/mskmoorthy/pulreq/compare/master...IanGross:patch-1
+
+
+
+My table's update: https://github.com/mskmoorthy/Story/blob/master/table_3.md
