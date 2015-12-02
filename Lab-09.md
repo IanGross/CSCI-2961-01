@@ -1,4 +1,4 @@
-1) I read the book and the slides
+I read the book and the slides.
 
 Here are the various tables my RStudio Produced
 
@@ -11,6 +11,11 @@ Here are the various tables my RStudio Produced
 ![File](http://i.xomf.com/kwnxna.png)
 
 ![File](http://i.xomf.com/cvcbka.png)
+
+
+Update on our project:
+
+Was not able to accomplish much over the past week. We will continue work by getting RocketFish to work on our machines and start to fix easy issues.
 
 Here's the code, in case you need to look at it
 ```
