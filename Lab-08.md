@@ -1,4 +1,4 @@
-Shortest path between chaos and order is:
+Shortest path between chaos and order is
 
 chaos
 chats
@@ -14,7 +14,7 @@ elder
 older
 order
 
-Shortest path between nodes and graph is:
+Shortest path between nodes and graph is
 
 nodes
 modes
@@ -27,7 +27,7 @@ grade
 grape
 graph
 
-Shortest path between moron and smart is:
+Shortest path between moron and smart is
 
 moron
 boron
@@ -54,7 +54,7 @@ None
 
 4 word solutions
 
-Shortest path between cold and warm is:
+Shortest path between cold and warm is
 
 cold
 cord
@@ -62,7 +62,7 @@ word
 worm
 warm
 
-Shortest path between love and hate is:
+Shortest path between love and hate is
 
 love
 hove
@@ -73,9 +73,9 @@ hate
 
 
 Altered Version of the 5 word ladder code answers:
-
-
-Shortest path between chaos and order is:
+/
+/
+Shortest path between chaos and order is
 
 chaos
 chose
@@ -84,7 +84,7 @@ horse
 horde
 order
 
-Shortest path between nodes and graph is:
+Shortest path between nodes and graph is
 
 nodes
 codes
@@ -94,7 +94,7 @@ gapes
 grape
 graph
 
-Shortest path between moron and smart is:
+Shortest path between moron and smart is
 
 moron
 morns
@@ -102,7 +102,7 @@ mores
 mares
 smart
 
-Shortest path between pound and marks is:
+Shortest path between pound and marks is
 
 pound
 bound
