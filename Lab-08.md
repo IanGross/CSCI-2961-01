@@ -47,7 +47,58 @@ smart
 Shortest path between pound and marks is
 None
 
+----------------
+
+4 word solutions
+
+Shortest path between cold and warm is
+cold
+cord
+word
+worm
+warm
+
+Shortest path between love and hate is
+love
+hove
+have
+hate
+
+------------------------
 
 
+Altered Version of the 5 word ladder code answers:
 
 
+Shortest path between chaos and order is
+chaos
+chose
+whose
+horse
+horde
+order
+
+Shortest path between nodes and graph is 
+nodes
+codes
+copes
+capes
+gapes
+grape
+graph
+
+Shortest path between moron and smart is 
+moron
+morns
+mores
+mares
+smart
+
+Shortest path between pound and marks is
+pound
+bound
+bunds
+bands
+banks
+barks
+marks
