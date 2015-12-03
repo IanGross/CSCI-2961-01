@@ -73,8 +73,8 @@ hate
 
 
 Altered Version of the 5 word ladder code answers:
-/
-/
+
+
 Shortest path between chaos and order is
 
 chaos
