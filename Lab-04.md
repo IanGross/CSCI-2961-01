@@ -30,6 +30,7 @@ What I fixed:
 
 Why it is important to maintain good documentation:
 - It's important to maintain good documentation so future users are able to understand how to use the product.
+
 What you have learned from this lab
 -  I learned that the OpenBSD FAQs have great grammar and their links work
 -  I learned that anyone can contribute to fixing mistakes in their documentation.
