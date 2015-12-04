@@ -7,7 +7,7 @@ Partners: Ian Gross, Barry Hu, Kevin Zhang
 
 3) Used "File/LiquidCrystal/SerialDisplay".
 
-![File](https://scontent.xx.fbcdn.net/hphotos-xap1/v/t34.0-12/12233434_1037378216282450_799164861_n.jpg?oh=44e1c0e7d3bccb4de97c7a9016172007&oe=5648FD2A)
+![File](http://i.xomf.com/qlxln.jpg)
 
 4) Part 4 code:
 
